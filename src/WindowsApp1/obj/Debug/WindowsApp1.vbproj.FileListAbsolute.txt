@@ -1,0 +1,26 @@
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\James\Desktop\src\WindowsApp1\bin\Debug\PewDIePie Injector.exe.config
+C:\Users\James\Desktop\src\WindowsApp1\bin\Debug\PewDIePie Injector.exe
+C:\Users\James\Desktop\src\WindowsApp1\bin\Debug\PewDIePie Injector.pdb
+C:\Users\James\Desktop\src\WindowsApp1\bin\Debug\PewDIePie Injector.xml
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PDPI.Form1.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PDPI.Form2.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PDPI.Form3.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PDPI.Resources.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PewDIePie Injector.exe
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PewDIePie Injector.xml
+C:\Users\James\Desktop\src\WindowsApp1\obj\Debug\PewDIePie Injector.pdb

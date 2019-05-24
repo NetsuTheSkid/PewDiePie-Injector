@@ -1,0 +1,51 @@
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe.config
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.pdb
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.xml
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.exe
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.xml
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.pdb
+C:\Users\OfflineUser\source\repos\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbprojResolveAssemblyReference.cache
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Form1.resources
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.Cache
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.exe
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.xml
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.pdb
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe.config
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.exe
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.pdb
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\bin\Release\WindowsApp1.xml
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.Resources.resources
+F:\CSGOINJECTORVIDEOFILES\SleepRInjectorSource\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PDPI.Form1.resources
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PDPI.Resources.resources
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\bin\Release\PewDIePie Injector.exe.config
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\bin\Release\PewDIePie Injector.exe
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\bin\Release\PewDIePie Injector.pdb
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\bin\Release\PewDIePie Injector.xml
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PewDIePie Injector.exe
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PewDIePie Injector.xml
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PewDIePie Injector.pdb
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PDPI.Form2.resources
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\PDPI.Form3.resources
+C:\Users\James\Desktop\WindowsApp1\WindowsApp1\obj\Release\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\James\Desktop\src\WindowsApp1\bin\Release\PewDIePie Injector.exe.config
+C:\Users\James\Desktop\src\WindowsApp1\bin\Release\PewDIePie Injector.exe
+C:\Users\James\Desktop\src\WindowsApp1\bin\Release\PewDIePie Injector.pdb
+C:\Users\James\Desktop\src\WindowsApp1\bin\Release\PewDIePie Injector.xml
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PDPI.Form1.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PDPI.Form2.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PDPI.Form3.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PDPI.Resources.resources
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PewDIePie Injector.exe
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PewDIePie Injector.xml
+C:\Users\James\Desktop\src\WindowsApp1\obj\Release\PewDIePie Injector.pdb
